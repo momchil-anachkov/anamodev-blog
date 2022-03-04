@@ -1,0 +1,9 @@
+
+# The Build Folder
+public
+
+# Hugo Build Cache
+resources
+
+# IDEs
+.idea
