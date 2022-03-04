@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2022-03-02T20:38:23+02:00
-draft: true
+draft: false
 
 # weight: 1
 # aliases: ["/first"]
