@@ -26,37 +26,37 @@ linkToMarkdown: false
 rssFullText: false
 
 toc:
-enable: true
-auto: true
+  enable: true
+  auto: true
 code:
-copy: true
-# ...
+  copy: true
+  # ...
 math:
-enable: true
-# ...
+  enable: true
+  # ...
 mapbox:
-accessToken: ""
-# ...
+  accessToken: ""
+  # ...
 share:
-enable: true
-# ...
+  enable: true
+  # ...
 comment:
-enable: true
-# ...
+  enable: true
+  # ...
 library:
-css:
-# someCSS = "some.css"
-# located in "assets/"
-# Or
-# someCSS = "https://cdn.example.com/some.css"
-js:
-# someJS = "some.js"
-# located in "assets/"
-# Or
-# someJS = "https://cdn.example.com/some.js"
+#  css:
+#    # someCSS = "some.css"
+#    # located in "assets/"
+#    # Or
+#    # someCSS = "https://cdn.example.com/some.css"
+  js:
+#    # someJS = "some.js"
+#    # located in "assets/"
+#    # Or
+#    # someJS = "https://cdn.example.com/some.js"
 seo:
-images: []
-# ...
+  images: []
+  # ...
 ---
 
 ## h2

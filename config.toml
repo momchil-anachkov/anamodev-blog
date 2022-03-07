@@ -98,13 +98,13 @@ theme = "LoveIt"
     # desktop header mode ("fixed", "normal", "auto")
     desktopMode = "fixed"
     # mobile header mode ("fixed", "normal", "auto")
-    mobileMode = "auto"
+    mobileMode = "fixed"
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "/apple-touch-icon.png"
       # title name
-      name = "anamodev"
+      name = ""
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -160,7 +160,7 @@ theme = "LoveIt"
       # URL of avatar shown in home page
       avatarURL = "global/me.jpg"
       #  title shown in home page (HTML format is supported)
-      title = ""
+      title = "anamodev"
       # subtitle shown in home page
       subtitle = "Better code. Better habits. Better life."
       # whether to use typeit animation for subtitle
