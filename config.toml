@@ -3,7 +3,7 @@ baseURL = "/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "My New Hugo Site"
+title = "anamodev"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -54,7 +54,7 @@ theme = "LoveIt"
   #  date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["global/me.jpg"]
+  images = ["android-chrome-512x512.png"]
 
   #  App icon config
   [params.app]
@@ -171,7 +171,7 @@ theme = "LoveIt"
       disclaimer = ""
     # Home page posts
     [params.home.posts]
-      enable = true
+      enable = false
       # special amount of posts in each home posts page
       paginate = 6
       #  replaced with hiddenFromHomePage in params.page
@@ -181,7 +181,7 @@ theme = "LoveIt"
   # Social config about the author
   [params.social]
     GitHub = "momchil-anachkov"
-    Linkedin = "momchil-anachkov/"
+    Linkedin = "momchil-anachkov"
     Twitter = ""
     Instagram = ""
     Facebook = ""

@@ -1,0 +1,4 @@
+.wrapper {
+  // fix footer appearing below safari bar
+  min-height: calc(100vh - env(safe-area-inset-bottom) - env(safe-area-inset-top));
+}
