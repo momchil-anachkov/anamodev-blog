@@ -1,4 +1,4 @@
-# The anamodev blog
+# The (second abandoned) anamodev blog
 
 ## Development
 
