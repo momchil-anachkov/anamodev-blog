@@ -2,7 +2,4 @@
 
 ## Development
 
-```sh
-git clone ...
-git submodules --init
-```
+No longer in development.
